@@ -1,16 +1,25 @@
-## Hi there 👋
+# Youssef Zoghlami
 
-<!--
-**YoussefZogh/YoussefZogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Youssef, a third-year Business Intelligence student at IHEC Carthage, passionate about data technologies, deep learning, and language models. I enjoy building practical projects that combine the power of data analysis and AI to solve real-world problems.
 
-Here are some ideas to get you started:
+## Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: Python, SQL, Java, JavaScript
+- **Data & Analytics**: PowerBI, Deep Learning, RandomForest, Reinforcement Learning
+- **Web Development**: HTML, CSS, PHP
+- **Database Management**: MySQL, Big Data, Cloud
+- **Machine Learning**: Supervised and Unsupervised Learning, Neural Networks, NLP
+
+## Projects
+
+- **Library Management System**: Developed a complete information system to manage online library resources using Java, .NET, and MySQL.
+- **Tunisian Card Game "Chkobba"**: Created an AI agent using reinforcement learning to play against the user with varying difficulty levels.
+- **Eco-Friendly E-commerce Website**: Built a platform to promote sustainable fashion using HTML, CSS, JavaScript, and PHP.
+- **Carbon Footprint Prediction**: Analyzed and predicted the carbon footprint of countries using PowerBI, RandomForest, and Neural Networks.
+
+## Education
+
+- **Business Intelligence**: IHEC Carthage, Tunisia
+- **Machine Learning Specialization**: Stanford University (via Coursera)
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to AI, data science, or development!
